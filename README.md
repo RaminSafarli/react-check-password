@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About project
+
+This is a small authorization form project to check password. It is developed by using React JS.
+
 ## Available Scripts
 
 In the project directory, you can run:
